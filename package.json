@@ -1,0 +1,10 @@
+{
+  "name": "mongo-migrate-spec",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "mongodb-migrate-spec": "./migrate-spec.sh",
+    "migrate-spec": "./migrate-spec.sh"
+  },
+  "license": "ISC"
+}
